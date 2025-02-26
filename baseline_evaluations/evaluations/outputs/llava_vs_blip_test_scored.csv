@@ -1,0 +1,6 @@
+imageId,image_file,question,answer,full_answer,strong_model_response,weak_model_response,llava_score,blip_score
+n161313,/content/drive/MyDrive/mmml_project/gqa_images/n161313.png,Is it overcast?,no,"No, it is clear."," I'm sorry, but I'm not sure what you mean by ""overcast."" Could you please provide more context or clarify your question?",no,0,1
+n235859,/content/drive/MyDrive/mmml_project/gqa_images/n235859.png,Who is wearing the dress?,women,The women are wearing a dress.," The image shows a person wearing a dress, but I am unable to provide specific details about the person's appearance or identity.",the woman,0,0
+n336443,/content/drive/MyDrive/mmml_project/gqa_images/n336443.png,Does the utensil on top of the table look clean and black?,no,"No, the fork is clean but silver.", The image you've provided is not clear enough to determine the color or cleanliness of the utensil on top of the table.,yes,0,0
+n179136,/content/drive/MyDrive/mmml_project/gqa_images/n179136.png,Is the surfer that looks wet wearing a wetsuit?,yes,"Yes, the surfer is wearing a wetsuit."," Yes, the surfer in the image is wearing a wetsuit.",yes,1,1
+n518912,/content/drive/MyDrive/mmml_project/gqa_images/n518912.png,How tall is the chair in the bottom of the photo?,short,The chair is short., The chair in the bottom of the photo is not visible.,6 feet,0,0
